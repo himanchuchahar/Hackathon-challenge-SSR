@@ -1,0 +1,28 @@
+{
+    "jobs":[{
+        "id": 1,
+        "title": "Senior React Developer",
+        "description": "We are looking for a React Front-End Web Developer with 2-3years hands on exprience with React who is motivated to combine the art of design with the art of software development.You will work with the RedBit’s design team to translate user experience designs, visual designs, and motion designs into actual code that works across various browsers including desktop & mobile",
+        "emplyoment_type": "full_time"
+    },{
+        "id": 2,
+        "title": "Senior React Developer (Javascript)",
+        "description": "React fron-end develper with JavaScript",
+        "emplyoment_type": "part_time"
+    },{
+        "id": 3,
+        "title": "React-native Developer",
+        "description": "We are looking for a React Front-End Web Developer with 2-3years hands on exprience with React who is motivated to combine the art of design with the art of software development.You will work with the RedBit’s design team to translate user experience designs, visual designs, and motion designs into actual code that works across various browsers including desktop & mobile",
+        "emplyoment_type": "full_time"
+    },{
+        "id": 4,
+        "title": "Javascript Developer",
+        "description": "We are looking for a React Front-End Web Developer with 2-3years hands on exprience with React who is motivated to combine the art of design with the art of software development.You will work with the RedBit’s design team to translate user experience designs, visual designs, and motion designs into actual code that works across various browsers including desktop & mobile",
+        "emplyoment_type": "full_time"
+    },{
+        "id": 5,
+        "title": "Senior Ruby Developer",
+        "description": "We are looking for a React Front-End Web Developer with 2-3years hands on exprience with React who is motivated to combine the art of design with the art of software development.You will work with the RedBit’s design team to translate user experience designs, visual designs, and motion designs into actual code that works across various browsers including desktop & mobile",
+        "emplyoment_type": "full_time"
+    }]
+}

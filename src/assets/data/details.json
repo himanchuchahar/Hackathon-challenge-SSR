@@ -1,0 +1,16 @@
+{
+    "title": "Senior React Developer",
+    "description": "Software Engineer - Full-stack (m / f / d) Location: Berlin Project A is the Operational VC, which in addition to capital offers a large network and exclusive access to a wide range of services. The Berlin investor manages 260 million euros, with which he finances technology startups. The core of Project A is the team of 100 experienced experts who support the portfolio companies operationally in areas such as software engineering, digital marketing, design, communication, business intelligence, sales and recruiting. The portfolio includes companies such as Artisense, Catawiki, Horizn Studios, KRY, LIQID, Spryker, uberall and WorldRemit. More information on www.project-a.com and on the blog. We are looking for: A new team member for one of our portfolio companies. What will challenge you? Working on an entire tech stack: backend, mobile apps and web; Specializations over time are possible Contribution to all phases of the product life cycle: Design, implementation, test, provision and maintenance Development of functions for the entire tech stack: Java, Kotlin, native mobile applications (Swift, Kotlin), Javascript, React operation of operating systems on Amazon AWS Agile Working with Scrum Continuous optimization of tools and workflow Continuous further development with colleagues together Close cooperation with the development team at headquarters, as well as exchange within various tech clubs (if necessary Willingness to travel for personal acquaintance) Which characteristics contribute to your success? At least 3 years experience with Java team player mentality. Motivation to develop a great product that users will love. Enjoy working as a generalist. Willing to learn new things. Professional and entrepreneurial development No politics, no nonsense Fast decision-making and results Good deal for Europe-wide membership in the Urban Sports Club Would you like to be part of our portfolio company success story?",
+    "skills": "You have professional experience and are trained in dealing with React and Redux; You believe Server-Side Rendering and Progressive Web Apps are absolutely logic; You have solid JavaScript / ES6 know-how; You are familiar with a variety of web browsers and their compatibility issues; You are used to deal with modern development tools; You have practical experience with accessibility and usability; Your TypeScript knowledge is an advantage but not mandatory",
+    "perks": "A  dynamic company with positive team spirit; Flexible working hours and agile working methods; Benefits such as top equipment and continuous development; Free coffee, fruit, breakfast and ice cream",
+    "details": {
+        "location": "Berlin",
+        "contract": "Full time, permanent position",
+        "released": "1 days ago",
+        "sectors": "IT software - systems / design; IT Services / Software Development",
+        "career_level":"Experienced"
+    },
+    "contact": {
+        "name": "John Ipsum"
+    }
+}
