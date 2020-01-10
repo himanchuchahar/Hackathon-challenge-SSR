@@ -1,5 +1,5 @@
-# Hey-Jobs
-Job Portal challenge for HeyJobs
+# Hackathon SSR
+Job Portal challenge for Hackathon
 
 ## Installation steps:
 npm install
